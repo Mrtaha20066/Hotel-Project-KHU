@@ -1,3 +1,9 @@
+'''
+This program is wroted by Taha Alizadeh
+It is for end term project for Mr.Najafi in Kharazmi University
+ANY COPY AND USING MUST ASK PERMISSION FROM TAHA ALIZADEH
+
+'''
 #importing class that we need
 from datetime import datetime
 import os
