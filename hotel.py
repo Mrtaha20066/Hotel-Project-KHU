@@ -249,7 +249,7 @@ class Hotel:
         for number, detail in self.Room.items():
             reserved = False
             for res in reservations:
-                user, room_no, res_in, res_out = res.strip().split(" * ")
+                user, room_no, res_in, res_out, guests, price, status = res.strip().split(" * ")
                 if room_no == number:
                     res_in_date = datetime.strptime(res_in, "%Y-%m-%d")
                     res_out_date = datetime.strptime(res_out, "%Y-%m-%d")
