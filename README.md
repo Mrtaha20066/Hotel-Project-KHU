@@ -108,3 +108,4 @@ Store a transaction history for each user.
 
 Introduce different user roles (Admin, Regular User, Manager).
 
+THANK YOU FOR YOUR ATTENTION.
